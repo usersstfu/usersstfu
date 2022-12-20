@@ -8,12 +8,12 @@
 <img align='right'
 src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" width="230">
 
-- 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University Palangka Raya</a> 
+- 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University of Palangka Raya</a> 
 - 📚 I’m Full Stack Developer Student at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
 - 🌱 I’m currently learning about <strong>React Web Expert at Dicoding</strong>
   
 ## 🎓 Education :
-#### 1. [University Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
+#### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
 #### 2. [SMAN 5 Palangka Raya](https://sman5palangkaraya.sch.id/) | MIPA(Sains) | Palangka Raya `2017-2020`
 
 ## 🛠 &nbsp;Tech Stack
