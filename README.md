@@ -62,7 +62,13 @@ src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" w
 <img src="https://img.shields.io/badge/usersstfu-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<h1>Github stats :bar_chart:</h1>
-
-<h2>Visitor's count :eyes:</h2>
+## Github stats 📊
+### Visitor's count 👀
 <p><img src="https://profile-counter.glitch.me/{usersstfu}/count.svg" alt="usersstfu :: Visitor's Count" /></p>
+
+### Profile Stats 🎹
+![Dian github stats](https://github-readme-stats.vercel.app/api?username=usersstfu&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+### Top Langs 👅
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usersstfu&langs_count=10&theme=tokyonight&layout=compact)
+
