@@ -4,7 +4,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me :
-<img align='right' src="https://www.upr.ac.id/assets/images/logo/0.png" width="230"> 
+<img align='right' src="https://1.bp.blogspot.com/-17BuSJ7QAdE/WeYZIQD69TI/AAAAAAAAHKw/GZiw3kRbMiUltbr2eYhu2cP0voQVhtXdwCLcBGAs/s1600/21.jpg" width="230"> 
 <img align='right'
 src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" width="230">
 
