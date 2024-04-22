@@ -9,7 +9,7 @@
 src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" width="230">
 
 - 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University of Palangka Raya</a> 
-- 📚 I’m Full Stack Developer Student at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
+- 📚 I Was Full Stack Developer Student at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
 - 🌱 I’m currently learning about <strong>Laravel And Codeigniter</strong>
   
 ## 🎓 Education :
