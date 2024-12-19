@@ -12,8 +12,8 @@ src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" w
 - 📚 I'm Full Stack Developer Graduate at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
 - 🌱 I’m currently learning about <strong>Laravel And Codeigniter</strong>
 
-## ![image](https://github.com/user-attachments/assets/6bfbffee-ab4f-48d8-9311-589721813208) Profession
-
+## Profession :
+### I'm Currently Working at PT. Pratama Solusi Psikologi as IT Technician
 
 ## 🎓 Education :
 #### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-2024`
