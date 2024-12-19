@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Dian Putra Anugrahnu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Graduate;Class+Of+2020;Enthusiastic+About+New+Things&center=true&width=500&height=50"></a>
 </p>
 
 ## 👨🏻‍💻 About Me :
@@ -8,12 +8,12 @@
 <img align='right'
 src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" width="230">
 
-- 📚 I’m Informatics Engineering Student at <a href="https://www.upr.ac.id/">University of Palangka Raya</a> 
-- 📚 I Was Full Stack Developer Student at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
+- 📚 I’m Informatics Engineering Graduate at <a href="https://www.upr.ac.id/">University of Palangka Raya</a> 
+- 📚 I'm Full Stack Developer Graduate at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
 - 🌱 I’m currently learning about <strong>Laravel And Codeigniter</strong>
   
 ## 🎓 Education :
-#### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-Now`
+#### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-2024`
 #### 2. [SMAN 5 Palangka Raya](https://sman5palangkaraya.sch.id/) | MIPA(Sains) | Palangka Raya `2017-2020`
 
 ## 🛠 &nbsp;Tech Stack
