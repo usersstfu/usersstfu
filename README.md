@@ -11,7 +11,10 @@ src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" w
 - 📚 I’m Informatics Engineering Graduate at <a href="https://www.upr.ac.id/">University of Palangka Raya</a> 
 - 📚 I'm Full Stack Developer Graduate at <a href="https://www.dicoding.com/">Dicoding Academy Indonesia<a/> 
 - 🌱 I’m currently learning about <strong>Laravel And Codeigniter</strong>
-  
+
+## ![image](https://github.com/user-attachments/assets/6bfbffee-ab4f-48d8-9311-589721813208) Profession
+
+
 ## 🎓 Education :
 #### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-2024`
 #### 2. [SMAN 5 Palangka Raya](https://sman5palangkaraya.sch.id/) | MIPA(Sains) | Palangka Raya `2017-2020`
@@ -47,10 +50,6 @@ src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" w
       
 ## How to reach me :
 <img src="https://img.shields.io/badge/dianpea00@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dianpea00@gmail.com">
-<a  href="https://www.instagram.com/ianisasi_nh3/">
-<img src="https://img.shields.io/badge/ianisasi_nh3-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="https://www.linkedin.com/in/dian-putra-anugrahnu-85bb491a6/">
 <img src="https://img.shields.io/badge/Dian Putra Anugrahnu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
