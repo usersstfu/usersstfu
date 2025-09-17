@@ -13,7 +13,7 @@ src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-1.jpg" w
 - 🌱 I’m currently learning about <strong>Laravel And Codeigniter</strong>
 
 ## Profession :
-### I'm Currently Working at PT. Pratama Solusi Psikologi as IT Technician
+### I'm Currently Working at Diskominfopersantik Katingan as Web Developer
 
 ## 🎓 Education :
 #### 1. [University of Palangka Raya](https://www.upr.ac.id/) | Informatic Engineering | Palangka Raya `2020-2024`
